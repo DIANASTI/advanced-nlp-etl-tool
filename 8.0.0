@@ -1,0 +1,2 @@
+Requirement already satisfied: click in c:\users\dianas\pycharmprojects\pythonproject1\.venv\lib\site-packages (8.3.0)
+Requirement already satisfied: colorama in c:\users\dianas\pycharmprojects\pythonproject1\.venv\lib\site-packages (from click) (0.4.6)

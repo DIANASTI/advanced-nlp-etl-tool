@@ -1,0 +1,7 @@
+Requirement already satisfied: textblob in c:\users\dianas\pycharmprojects\pythonproject1\.venv\lib\site-packages (0.19.0)
+Requirement already satisfied: nltk>=3.9 in c:\users\dianas\pycharmprojects\pythonproject1\.venv\lib\site-packages (from textblob) (3.9.2)
+Requirement already satisfied: click in c:\users\dianas\pycharmprojects\pythonproject1\.venv\lib\site-packages (from nltk>=3.9->textblob) (8.3.0)
+Requirement already satisfied: joblib in c:\users\dianas\pycharmprojects\pythonproject1\.venv\lib\site-packages (from nltk>=3.9->textblob) (1.5.2)
+Requirement already satisfied: regex>=2021.8.3 in c:\users\dianas\pycharmprojects\pythonproject1\.venv\lib\site-packages (from nltk>=3.9->textblob) (2025.11.3)
+Requirement already satisfied: tqdm in c:\users\dianas\pycharmprojects\pythonproject1\.venv\lib\site-packages (from nltk>=3.9->textblob) (4.67.1)
+Requirement already satisfied: colorama in c:\users\dianas\pycharmprojects\pythonproject1\.venv\lib\site-packages (from click->nltk>=3.9->textblob) (0.4.6)
